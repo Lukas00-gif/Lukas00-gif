@@ -32,7 +32,7 @@
 ---
 
 ### Projetos em destaque
-* Estudo de caso Bellabeat: https://github.com/Lukas00-gif/Bellabeat
+- [Bellabeat: Estudo de Caso](https://github.com/Lukas00-gif/Bellabeat): análise de dados de dispositivos Fitbit em R. Notebook completo no [Kaggle](https://www.kaggle.com/code/lukaslima/bellabeat-estudo-de-caso)
 
 ---
 ### 📫 Contato
